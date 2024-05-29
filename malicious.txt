@@ -1,0 +1,4 @@
+<script>
+    alert("You've been hacked!");
+    // Additional malicious actions can be included here
+</script>
